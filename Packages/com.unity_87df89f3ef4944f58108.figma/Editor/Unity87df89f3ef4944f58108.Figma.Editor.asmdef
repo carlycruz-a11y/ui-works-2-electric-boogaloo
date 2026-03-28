@@ -1,0 +1,10 @@
+{
+    "name": "Unity87df89f3ef4944f58108.Figma.Editor",
+    "references": [
+      "Unity87df89f3ef4944f58108.Figma"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Unity87df89f3ef4944f58108.Figma.Editor.Tests",
+    "references": [
+        "Unity87df89f3ef4944f58108.Figma.Editor",
+        "Unity87df89f3ef4944f58108.Figma"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

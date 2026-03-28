@@ -1,0 +1,7 @@
+﻿<Solution>
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="Unity87df89f3ef4944f58108.Figma.Tests.csproj" />
+  <Project Path="Unity87df89f3ef4944f58108.Figma.Editor.csproj" />
+  <Project Path="Unity87df89f3ef4944f58108.Figma.Editor.Tests.csproj" />
+  <Project Path="Unity87df89f3ef4944f58108.Figma.csproj" />
+</Solution>
